@@ -87,7 +87,6 @@ public class RulerView extends View {
                 .getSystemService(Context.WINDOW_SERVICE);
 
         width_screen = wm.getDefaultDisplay().getWidth();
-
         //初始化x位置
         originPosition = (max - min)/2;
         currentPosition = originPosition;
