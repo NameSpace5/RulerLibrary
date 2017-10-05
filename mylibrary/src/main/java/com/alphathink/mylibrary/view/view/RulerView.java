@@ -114,6 +114,7 @@ public class RulerView extends View {
 
         //画刻度 区分长短
         drawScale(canvas);
+
     }
 
     /**
